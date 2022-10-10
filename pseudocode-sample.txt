@@ -1,0 +1,7 @@
+
+Build calculator to add two numbers
+
+1. Take first input
+2. Take second input 
+3. Add two numbers
+5. return result
